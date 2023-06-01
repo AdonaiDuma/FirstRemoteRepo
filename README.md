@@ -1,2 +1,2 @@
 # Lista zakupow
-kto jest najlepszy?
+user 2
